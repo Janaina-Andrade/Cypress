@@ -1,0 +1,55 @@
+{
+    "signup": {
+        "name": "Janaina Andrade",
+        "cpf": "00000014141",
+        "email": "janalimapereira.jalp@hotmail.com",
+        "whatsapp": "11999999999",
+
+        "address": {
+            "cep": "09551300",
+            "street": "Rua Nazaret",
+            "number": "910",
+            "details": "casa 02",
+            "district": "Santa Paula",
+            "city_state": "São Caetano do Sul/SP"
+            },
+            "delivery_method": "Moto",
+            "CNH": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "João Lucas",
+        "cpf": "00000014fj1",
+        "email": "jl321@hotmail.com",
+        "whatsapp": "11999999999",
+
+        "address": {
+            "cep": "09551300",
+            "street": "Rua Nazaret",
+            "number": "910",
+            "details": "casa 02",
+            "district": "Santa Paula",
+            "city_state": "São Caetano do Sul/SP"
+            },
+            "delivery_method": "Moto",
+            "CNH": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Janaina Andrade",
+        "cpf": "00000014141",
+        "email": "jana.hotmail.com",
+        "whatsapp": "11999999999",
+
+        "address": {
+            "cep": "09551300",
+            "street": "Rua Nazaret",
+            "number": "910",
+            "details": "casa 02",
+            "district": "Santa Paula",
+            "city_state": "São Caetano do Sul/SP"
+            },
+            "delivery_method": "Moto",
+            "CNH": "cnh-digital.jpg"
+    }
+
+}
